@@ -1,0 +1,14 @@
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom TIC.csproj.AssemblyReference.cache
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.Properties.Resources.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom TIC.csproj.GenerateResource.cache
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom TIC.csproj.CoreCompileInputs.cache
+Z:\c#\new project\Unicom TIC\Unicom TIC\bin\Debug\Unicom TIC.exe.config
+Z:\c#\new project\Unicom TIC\Unicom TIC\bin\Debug\Unicom TIC.exe
+Z:\c#\new project\Unicom TIC\Unicom TIC\bin\Debug\Unicom TIC.pdb
+Z:\c#\new project\Unicom TIC\Unicom TIC\bin\Debug\System.Data.SQLite.dll
+Z:\c#\new project\Unicom TIC\Unicom TIC\bin\Debug\System.Data.SQLite.xml
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom TIC.csproj.Up2Date
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom TIC.exe
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom TIC.pdb
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.Login.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.Course.resources
