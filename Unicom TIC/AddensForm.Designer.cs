@@ -1,6 +1,6 @@
 ﻿namespace Unicom_TIC
 {
-    partial class Form2
+    partial class AddensForm
     {
         /// <summary>
         /// Required designer variable.

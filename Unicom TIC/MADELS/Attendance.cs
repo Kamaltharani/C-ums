@@ -4,13 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Unicom_TIC.MADELS
+namespace Unicom_TIC.Models
 {
-    internal class Attendance
+    public class Attendance
     {
-        public int AttendanceId { get; set; }
-        public int StudentId { get; set; }
-        public int TimeTable {  get; set; }
-        public int Timslot {  get; set; }
+        public int AttendancId { get; set; }
+        public string StudentName { get; set; }
+        public DateTime DateTime { get; set; }
+        public bool IsPresent { get; set; }
     }
 }
+

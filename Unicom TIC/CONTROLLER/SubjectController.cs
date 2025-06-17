@@ -8,5 +8,9 @@ namespace Unicom_TIC.CONTROLLER
 {
     internal class SubjectController
     {
+        internal object GetAllSubjects()
+        {
+            throw new NotImplementedException();
+        }
     }
 }

@@ -8,11 +8,11 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Unicom_TIC.view
+namespace Unicom_TIC
 {
-    public partial class Exam : Form
+    public partial class AddensForm : Form
     {
-        public Exam()
+        public AddensForm()
         {
             InitializeComponent();
         }

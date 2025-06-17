@@ -3,6 +3,8 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using Unicom_TIC.Repositories;
+using Unicom_TIC.view;
 
 namespace Unicom_TIC
 {
@@ -14,9 +16,11 @@ namespace Unicom_TIC
         [STAThread]
         static void Main()
         {
+            DatabaseManager.CreateTables();
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new Login());
         }
+
     }
 }

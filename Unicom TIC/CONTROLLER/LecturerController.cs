@@ -8,5 +8,6 @@ namespace Unicom_TIC.CONTROLLER
 {
     internal class LecturerController
     {
+
     }
 }

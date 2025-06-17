@@ -9,8 +9,8 @@ namespace Unicom_TIC.Controllers
 {
     public class Course
     {
-        public string CourseName { get; set; }
         public int CourseId { get; set; }
-
+        public string CourseName { get; set; }
     }
+
 }

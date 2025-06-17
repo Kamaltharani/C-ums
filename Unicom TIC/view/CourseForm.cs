@@ -12,9 +12,9 @@ using static System.Windows.Forms.VisualStyles.VisualStyleElement.ProgressBar;
 
 namespace Unicom_TIC.view
 {
-    public partial class Course : Form
+    public partial class CourseForm : Form
     {
-        public Course()
+        public CourseForm()
         {
             InitializeComponent();
         }
@@ -24,7 +24,7 @@ namespace Unicom_TIC.view
             string courseName = txtCourse.Text;
             if (!string.IsNullOrEmpty(courseName))
             {
-                CourseController.Items.Add(courseName);
+                object @new = CourseControlleAdd(courseName);
                 txtCourse.Clear();
             }
             else
@@ -34,16 +34,21 @@ namespace Unicom_TIC.view
             }
         }
 
+        private object CourseControlleAdd(string courseName)
+        {
+            throw new NotImplementedException();
+        }
+
         private void btnUpdata_Click(object sender, EventArgs e)
         {
-            if (txtCourse.SelectedIndex != -1)
+            if (txtCourse.Text == "")
             {
                 string updatedCourseName = txtCourse.Text;
 
                 if (!string.IsNullOrEmpty(updatedCourseName))
                 {
                     // Update the selected item in ListBox
-                    txtCourse.Items[txtCourse.SelectedIndex] = updatedCourseName;
+                    txtCourse.Text = updatedCourseName;
 
                     // Clear the TextBox after update
                     txtCourse.Clear();
@@ -63,11 +68,8 @@ namespace Unicom_TIC.view
 
         private void btnDelete_Click(object sender, EventArgs e)
         {
-            if (txtCourse.SelectedIndex != -1)
+            if (txtCourse.Text=="")
             {
-
-                txtCourse.Items.RemoveAt(txtCourse.SelectedIndex);
-
                 MessageBox.Show("Selected course deleted successfully!");
             }
             else
@@ -77,6 +79,11 @@ namespace Unicom_TIC.view
         }
 
         private void txtCourse_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
