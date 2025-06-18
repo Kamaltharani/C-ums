@@ -72,6 +72,14 @@ namespace Unicom_TIC.Repositories
                     TimetableId INTEGER PRIMARY KEY AUTOINCREMENT,
                     Timeslot TEXT NOT NULL
                 );
+
+                 CREATE TABLE Attendance (
+                        AttendanceID INTEGER PRIMARY KEY AUTOINCREMENT,
+                        StudentID INTEGER,
+                        CourseID INTEGER,
+                        Date TEXT,
+                        Status TEXT
+                );
                 ";
 
                 cmd.CommandText = createTableQuery;

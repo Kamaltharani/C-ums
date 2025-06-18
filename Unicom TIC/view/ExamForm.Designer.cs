@@ -44,7 +44,6 @@
             this.cmbSubject.Name = "cmbSubject";
             this.cmbSubject.Size = new System.Drawing.Size(121, 21);
             this.cmbSubject.TabIndex = 0;
-            this.cmbSubject.SelectedIndexChanged += new System.EventHandler(this.comboBox1_SelectedIndexChanged);
             // 
             // txtEmName
             // 
@@ -78,7 +77,6 @@
             this.Exam.Size = new System.Drawing.Size(72, 13);
             this.Exam.TabIndex = 4;
             this.Exam.Text = "Exam Subject";
-            this.Exam.Click += new System.EventHandler(this.Exam_Click);
             // 
             // label4
             // 
@@ -88,7 +86,6 @@
             this.label4.Size = new System.Drawing.Size(64, 13);
             this.label4.TabIndex = 5;
             this.label4.Text = "Exam Name";
-            this.label4.Click += new System.EventHandler(this.label4_Click);
             // 
             // ExamForm
             // 
@@ -100,7 +97,6 @@
             this.Controls.Add(this.txtEmName);
             this.Controls.Add(this.cmbSubject);
             this.Name = "ExamForm";
-            this.Load += new System.EventHandler(this.ExamForm_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

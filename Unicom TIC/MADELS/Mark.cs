@@ -10,6 +10,8 @@ namespace Unicom_TIC.Controllers
     {
         public int StudentId { get; set; }
         public int ExamID { get; set; }
+        public int ExamId { get; internal set; }
         public int score { get; set; }
+        public int Score { get; internal set; }
     }
 }

@@ -108,6 +108,7 @@
             this.main.Name = "main";
             this.main.Size = new System.Drawing.Size(679, 410);
             this.main.TabIndex = 2;
+            this.main.Paint += new System.Windows.Forms.PaintEventHandler(this.main_Paint);
             // 
             // Login
             // 

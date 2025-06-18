@@ -21,5 +21,10 @@ namespace Unicom_TIC.view
         {
 
         }
+
+        private void main_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

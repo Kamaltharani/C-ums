@@ -1,7 +1,8 @@
 Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom TIC.csproj.AssemblyReference.cache
 Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.Properties.Resources.resources
-Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.Attendance.resources
-Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.Exam.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.AttendanceForm.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.CourseForm.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.Forms.ExamForm.resources
 Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.Form7.resources
 Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.Lecturer.resources
 Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.Login.resources
@@ -17,7 +18,7 @@ Z:\c#\new project\Unicom TIC\Unicom TIC\bin\Debug\Unicom TIC.exe
 Z:\c#\new project\Unicom TIC\Unicom TIC\bin\Debug\Unicom TIC.pdb
 Z:\c#\new project\Unicom TIC\Unicom TIC\bin\Debug\System.Data.SQLite.dll
 Z:\c#\new project\Unicom TIC\Unicom TIC\bin\Debug\System.Data.SQLite.xml
-Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.Course.resources
 Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom TIC.csproj.Up2Date
 Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom TIC.exe
 Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom TIC.pdb
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.courseLesturefrom.resources
