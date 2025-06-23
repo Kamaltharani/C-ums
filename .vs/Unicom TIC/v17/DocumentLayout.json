@@ -1,12 +1,82 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\UT010782\\Desktop\\New folder\\",
-  "Documents": [],
+  "WorkspaceRootPath": "Z:\\New folder\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|z:\\new folder\\unicom tic\\view\\staffform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\staffform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\New folder\\unicom tic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\New folder\\unicom tic\\madels\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\madels\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\New folder\\unicom tic\\madels\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\madels\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaffForm2.cs [Design]",
+              "DocumentMoniker": "Z:\\New folder\\Unicom TIC\\view\\StaffForm2.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\view\\StaffForm2.cs",
+              "ToolTip": "Z:\\New folder\\Unicom TIC\\view\\StaffForm2.cs [Design]",
+              "RelativeToolTip": "Unicom TIC\\view\\StaffForm2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:10:33.483Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "Z:\\New folder\\Unicom TIC\\Form1.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\Form1.cs",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\New folder\\Unicom TIC\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:10:32.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "Z:\\New folder\\Unicom TIC\\MADELS\\Lecturer.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\MADELS\\Lecturer.cs",
+              "ToolTip": "Z:\\New folder\\Unicom TIC\\MADELS\\Lecturer.cs",
+              "RelativeToolTip": "Unicom TIC\\MADELS\\Lecturer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:10:29.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "login.cs",
+              "DocumentMoniker": "Z:\\New folder\\Unicom TIC\\MADELS\\login.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\MADELS\\login.cs",
+              "ToolTip": "Z:\\New folder\\Unicom TIC\\MADELS\\login.cs",
+              "RelativeToolTip": "Unicom TIC\\MADELS\\login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T05:10:28.496Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
