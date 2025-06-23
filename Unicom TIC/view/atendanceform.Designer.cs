@@ -80,7 +80,7 @@
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(12, 47);
+            this.label1.Location = new System.Drawing.Point(7, 47);
             this.label1.Name = "label1";
             this.label1.Size = new System.Drawing.Size(75, 13);
             this.label1.TabIndex = 4;
@@ -132,7 +132,7 @@
             this.rdoAbsent.Text = "Absent";
             this.rdoAbsent.UseVisualStyleBackColor = true;
             // 
-            // atendanceform
+            // AttendanceForm
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -147,7 +147,7 @@
             this.Controls.Add(this.rdoPresent);
             this.Controls.Add(this.dtpDate);
             this.Controls.Add(this.cmdStudent);
-            this.Name = "atendanceform";
+            this.Name = "AttendanceForm";
             this.Text = "atendanceform";
             this.ResumeLayout(false);
             this.PerformLayout();

@@ -8,8 +8,11 @@ namespace Unicom_TIC.Controllers
 {
     internal class Timetable
     {
-        public int TimeTableId { get; set; }
-        public  int Timeslot {  get; set; }
-        public int SubjectId { get; set; }
+        public int Id { get; set; }
+        public string CourseName { get; set; }
+        public string LecturerName { get; set; }
+        public string Day { get; set; }
+        public string Time { get; set; }
+        public string Room { get; set; }
     }
 }

@@ -70,6 +70,7 @@
             this.bntStudent.TabIndex = 2;
             this.bntStudent.Text = "Student ";
             this.bntStudent.UseVisualStyleBackColor = false;
+            this.bntStudent.Click += new System.EventHandler(this.bntStudent_Click);
             // 
             // btnLecture
             // 
@@ -80,6 +81,7 @@
             this.btnLecture.TabIndex = 1;
             this.btnLecture.Text = "lecuture";
             this.btnLecture.UseVisualStyleBackColor = false;
+            this.btnLecture.Click += new System.EventHandler(this.btnLecture_Click);
             // 
             // panel2
             // 

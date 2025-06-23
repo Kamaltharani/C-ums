@@ -15,6 +15,7 @@ namespace Unicom_TIC.Controllers
         public string StudentEmail { get; set; }
         public string courseId { get; set; }
         public string CourseName { get; set; }
+        public object SectionId { get; internal set; }
 
     }
 }

@@ -31,9 +31,7 @@
             this.RoomName = new System.Windows.Forms.Label();
             this.btnAdd = new System.Windows.Forms.Button();
             this.textBox1 = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
             this.label3 = new System.Windows.Forms.Label();
-            this.textBox2 = new System.Windows.Forms.TextBox();
             this.textBox3 = new System.Windows.Forms.TextBox();
             this.btnUpdata = new System.Windows.Forms.Button();
             this.btnDelete = new System.Windows.Forms.Button();
@@ -57,6 +55,7 @@
             this.btnAdd.TabIndex = 1;
             this.btnAdd.Text = "Add";
             this.btnAdd.UseVisualStyleBackColor = false;
+            this.btnAdd.Click += new System.EventHandler(this.btnAdd_Click);
             // 
             // textBox1
             // 
@@ -64,15 +63,6 @@
             this.textBox1.Name = "textBox1";
             this.textBox1.Size = new System.Drawing.Size(100, 20);
             this.textBox1.TabIndex = 2;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(33, 72);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(44, 13);
-            this.label2.TabIndex = 3;
-            this.label2.Text = "RoomId";
             // 
             // label3
             // 
@@ -83,13 +73,6 @@
             this.label3.TabIndex = 4;
             this.label3.Text = "RoomTepy";
             this.label3.Click += new System.EventHandler(this.label3_Click);
-            // 
-            // textBox2
-            // 
-            this.textBox2.Location = new System.Drawing.Point(113, 69);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(100, 20);
-            this.textBox2.TabIndex = 5;
             // 
             // textBox3
             // 
@@ -107,6 +90,7 @@
             this.btnUpdata.TabIndex = 7;
             this.btnUpdata.Text = "Updata";
             this.btnUpdata.UseVisualStyleBackColor = false;
+            this.btnUpdata.Click += new System.EventHandler(this.btnUpdata_Click);
             // 
             // btnDelete
             // 
@@ -127,9 +111,7 @@
             this.Controls.Add(this.btnDelete);
             this.Controls.Add(this.btnUpdata);
             this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
             this.Controls.Add(this.label3);
-            this.Controls.Add(this.label2);
             this.Controls.Add(this.textBox1);
             this.Controls.Add(this.btnAdd);
             this.Controls.Add(this.RoomName);
@@ -145,9 +127,7 @@
         private System.Windows.Forms.Label RoomName;
         private System.Windows.Forms.Button btnAdd;
         private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Label label3;
-        private System.Windows.Forms.TextBox textBox2;
         private System.Windows.Forms.TextBox textBox3;
         private System.Windows.Forms.Button btnUpdata;
         private System.Windows.Forms.Button btnDelete;

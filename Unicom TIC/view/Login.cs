@@ -26,5 +26,15 @@ namespace Unicom_TIC.view
         {
 
         }
+
+        private void btnLecture_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void bntStudent_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

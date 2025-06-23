@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace Unicom_TIC.view
 {
-    public partial class Form1 : Form
+    public partial class StudendviewForm : Form
     {
-        public Form1()
+        public StudendviewForm()
         {
             InitializeComponent();
-        }
-
-        private void label4_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void btnAdd_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }

@@ -61,16 +61,20 @@
     <Compile Include="CONTROLLER\AttendanceCon.cs" />
     <Compile Include="CONTROLLER\CourseController.cs" />
     <Compile Include="CONTROLLER\ExamController.cs" />
+    <Compile Include="CONTROLLER\LecturerController.cs" />
     <Compile Include="CONTROLLER\LoginController.cs" />
     <Compile Include="CONTROLLER\MarkController.cs" />
+    <Compile Include="CONTROLLER\Staffcontroller.cs" />
     <Compile Include="CONTROLLER\StudentController.cs" />
     <Compile Include="CONTROLLER\SubjectController.cs" />
     <Compile Include="CONTROLLER\TimetableController.cs" />
     <Compile Include="MADELS\Attendance.cs" />
     <Compile Include="MADELS\Course.cs" />
     <Compile Include="MADELS\Exam.cs" />
+    <Compile Include="MADELS\Lecturer.cs" />
     <Compile Include="MADELS\Mark.cs" />
     <Compile Include="MADELS\Room.cs" />
+    <Compile Include="MADELS\Staff.cs" />
     <Compile Include="MADELS\Student.cs" />
     <Compile Include="MADELS\Subject.cs" />
     <Compile Include="MADELS\Timetable.cs" />
@@ -103,6 +107,12 @@
     <Compile Include="view\ExamForm.Designer.cs">
       <DependentUpon>ExamForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="view\Lecturerfrom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\Lecturerfrom.Designer.cs">
+      <DependentUpon>Lecturerfrom.cs</DependentUpon>
+    </Compile>
     <Compile Include="view\Login.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -120,6 +130,12 @@
     </Compile>
     <Compile Include="view\Room.Designer.cs">
       <DependentUpon>Room.cs</DependentUpon>
+    </Compile>
+    <Compile Include="view\StudendviewForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="view\StudendviewForm.Designer.cs">
+      <DependentUpon>StudendviewForm.cs</DependentUpon>
     </Compile>
     <Compile Include="view\Subject.cs">
       <SubType>Form</SubType>
@@ -157,6 +173,9 @@
     <EmbeddedResource Include="view\ExamForm.resx">
       <DependentUpon>ExamForm.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="view\Lecturerfrom.resx">
+      <DependentUpon>Lecturerfrom.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="view\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>
     </EmbeddedResource>
@@ -165,6 +184,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="view\Room.resx">
       <DependentUpon>Room.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="view\StudendviewForm.resx">
+      <DependentUpon>StudendviewForm.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="view\Student.resx">
       <DependentUpon>Student.cs</DependentUpon>

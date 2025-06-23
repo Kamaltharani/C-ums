@@ -21,17 +21,7 @@ namespace Unicom_TIC.view
 
         private void btnAdd_Click(object sender, EventArgs e)
         {
-            string courseName = txtCourse.Text;
-            if (!string.IsNullOrEmpty(courseName))
-            {
-                object @new = CourseControlleAdd(courseName);
-                txtCourse.Clear();
-            }
-            else
-            {
-                MessageBox.Show("please entre acourse.");
-                
-            }
+
         }
 
         private object CourseControlleAdd(string courseName)
@@ -41,29 +31,7 @@ namespace Unicom_TIC.view
 
         private void btnUpdata_Click(object sender, EventArgs e)
         {
-            if (txtCourse.Text == "")
-            {
-                string updatedCourseName = txtCourse.Text;
 
-                if (!string.IsNullOrEmpty(updatedCourseName))
-                {
-                    // Update the selected item in ListBox
-                    txtCourse.Text = updatedCourseName;
-
-                    // Clear the TextBox after update
-                    txtCourse.Clear();
-
-                    MessageBox.Show("Course updated successfully!");
-                }
-                else
-                {
-                    MessageBox.Show("Please enter a course name to update.");
-                }
-            }
-            else
-            {
-                MessageBox.Show("Please select a course to update.");
-            }
         }
 
         private void btnDelete_Click(object sender, EventArgs e)
@@ -78,14 +46,41 @@ namespace Unicom_TIC.view
             }
         }
 
-        private void txtCourse_TextChanged(object sender, EventArgs e)
+        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
 
         }
 
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
+        private void CourseForm_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnAddCourse_Click(object sender, EventArgs e)
+        {
+            string course = txtCourseName.Text;
+            string subject = txtSubjectName.Text;
+            string courseSel = cmbCourseSelection.Selectedm?.ToString();
+            
+            if (string.IsNullOrWhiteSpace(course) || string.IsNullOrWhiteSpace(subject) || coursese1 == null)
+            {
+                MessageBox.Show("Please fill all fields.");
+                return;
+            }
+            dataGridView1.Rows.Add(course, subject, courseSel);
+            ClearInputs();
+        }
+
+        private void btnAddSubject_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.CurrentRow != null)
+            {
+                dataGridView1.CurrentRow.Cells[0].Value = txtCourseName.Text;
+                dataGridView1.CurrentRow.Cells[1].Value = txtSubject.Text;
+                dataGridView1.CurrentRow.Cells[2].Value = cmdCourseSelection.Selectedltem?.ToString();
+                Clearfields();
+
+            }
         }
     }
  }

@@ -29,12 +29,32 @@ namespace Unicom_TIC.view
 
         private void button3_Click(object sender, EventArgs e)
         {
-
+            if (dataGridView1.CurrentRow != null)
+            {
+                dataGridView1.Rows.Remove(dataGridView1.CurrentRow);
+            }
         }
 
         private void textBox3_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnAdd_Click(object sender, EventArgs e)
+        {
+            dataGridView1.Rows.Add(txtExamId.Text, txtSubjectId.Text, txtScore.Text);
+            ClearFie1ds();
+        }
+
+        private void btnUpdate_Click(object sender, EventArgs e)
+        {
+            if (dataGridView1.CurrentRow != null)
+            {
+                dataGridView1.CurrentRow.Cells[0].Value = txtExamID.Text;
+                dataGridView1.CurrentRow.Cells[1].Value = txtSubjectId.Text;
+                dataGridView1.CurrentRow.Cells[2].Value = txtScore.Text;
+
+            }
         }
     }
 }

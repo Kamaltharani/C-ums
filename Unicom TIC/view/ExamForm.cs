@@ -34,5 +34,27 @@ namespace Unicom_TIC.Forms
                
             }
         }
+
+        private void ExamForm_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnAdd_Click(object sender, EventArgs e)
+        {
+            string subject = cmdExamSubject.Text;
+            string examName = txtExamName.Text;
+
+            if (!string.IsNullOrWhiteSpace(subject) && !string.IsNullOrWhiteSpace(examName))
+            {
+                dataGridView1.Rows.Add(subject, examName);
+                cmbExamsubject.selectadIndex = -1;
+                txtExamName.clear();
+            }
+            else
+            {
+                MessageBox.Show("please enter both subject and exam name.");
+            }
+        }
     }
 }
