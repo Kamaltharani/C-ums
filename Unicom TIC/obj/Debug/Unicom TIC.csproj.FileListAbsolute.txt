@@ -1,0 +1,59 @@
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom TIC.csproj.AssemblyReference.cache
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.Properties.Resources.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.AttendanceForm.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.CourseForm.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.Forms.ExamForm.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.Form7.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.Lecturer.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.Login.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.Mark.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.Room.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.Form1.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.Subject.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.Timetable.resources
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom TIC.csproj.GenerateResource.cache
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom TIC.csproj.CoreCompileInputs.cache
+Z:\c#\new project\Unicom TIC\Unicom TIC\bin\Debug\Unicom TIC.exe.config
+Z:\c#\new project\Unicom TIC\Unicom TIC\bin\Debug\Unicom TIC.exe
+Z:\c#\new project\Unicom TIC\Unicom TIC\bin\Debug\Unicom TIC.pdb
+Z:\c#\new project\Unicom TIC\Unicom TIC\bin\Debug\System.Data.SQLite.dll
+Z:\c#\new project\Unicom TIC\Unicom TIC\bin\Debug\System.Data.SQLite.xml
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom TIC.csproj.Up2Date
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom TIC.exe
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom TIC.pdb
+Z:\c#\new project\Unicom TIC\Unicom TIC\obj\Debug\Unicom_TIC.view.courseLesturefrom.resources
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom TIC.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom TIC.exe.config
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom_TIC.Properties.Resources.resources
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom_TIC.AttendanceForm.resources
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom_TIC.view.CourseForm.resources
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom_TIC.Forms.ExamForm.resources
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom_TIC.view.Login.resources
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom_TIC.view.Mark.resources
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom_TIC.view.Room.resources
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom_TIC.view.StaffForm2.resources
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom_TIC.view.Form1.resources
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom_TIC.view.Studentveiw.resources
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom_TIC.view.Subject.resources
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom_TIC.view.Timetable.resources
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom TIC.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom TIC.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom TIC.exe
+C:\Users\PC\Desktop\c#\C-ums\Unicom TIC\obj\Debug\Unicom TIC.pdb
+D:\Unicom TIC\obj\Debug\Unicom TIC.csproj.AssemblyReference.cache
+D:\Unicom TIC\obj\Debug\Unicom_TIC.Properties.Resources.resources
+D:\Unicom TIC\obj\Debug\Unicom_TIC.AttendanceForm.resources
+D:\Unicom TIC\obj\Debug\Unicom_TIC.view.CourseForm.resources
+D:\Unicom TIC\obj\Debug\Unicom_TIC.Forms.ExamForm.resources
+D:\Unicom TIC\obj\Debug\Unicom_TIC.view.Login.resources
+D:\Unicom TIC\obj\Debug\Unicom_TIC.view.Mark.resources
+D:\Unicom TIC\obj\Debug\Unicom_TIC.view.Room.resources
+D:\Unicom TIC\obj\Debug\Unicom_TIC.view.StaffForm2.resources
+D:\Unicom TIC\obj\Debug\Unicom_TIC.view.Form1.resources
+D:\Unicom TIC\obj\Debug\Unicom_TIC.view.Studentveiw.resources
+D:\Unicom TIC\obj\Debug\Unicom_TIC.view.Subject.resources
+D:\Unicom TIC\obj\Debug\Unicom_TIC.view.Timetable.resources
+D:\Unicom TIC\obj\Debug\Unicom TIC.csproj.GenerateResource.cache
+D:\Unicom TIC\obj\Debug\Unicom TIC.csproj.CoreCompileInputs.cache
+D:\Unicom TIC\obj\Debug\Unicom TIC.exe
+D:\Unicom TIC\obj\Debug\Unicom TIC.pdb
