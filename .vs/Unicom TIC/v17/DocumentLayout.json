@@ -1,89 +1,93 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "Z:\\new\\C-ums\\",
+  "WorkspaceRootPath": "C:\\Users\\UT010782\\Desktop\\ums\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|z:\\new\\c-ums\\unicom tic\\madels\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|c:\\users\\ut010782\\desktop\\ums\\unicom tic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\madels\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\madels\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|z:\\new\\c-ums\\unicom tic\\view\\lecturerfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\view\\lecturerfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\lecturerfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|z:\\new\\c-ums\\unicom tic\\view\\lecturerfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\view\\lecturerfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\lecturerfrom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|z:\\new\\c-ums\\unicom tic\\controller\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\controller\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\new\\C-ums\\unicom tic\\repositories\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\repositories\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\repositories\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\new\\C-ums\\unicom tic\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|z:\\new\\c-ums\\unicom tic\\madels\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\madels\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\madels\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\new\\C-ums\\unicom tic\\madels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\madels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\madels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\new\\C-ums\\unicom tic\\controller\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\controller\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\new\\C-ums\\unicom tic\\view\\examform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\view\\examform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\examform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\new\\C-ums\\unicom tic\\madels\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\madels\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\madels\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\new\\C-ums\\unicom tic\\controller\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\controller\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\new\\C-ums\\unicom tic\\controller\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\controller\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\new\\C-ums\\unicom tic\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\new\\C-ums\\unicom tic\\controller\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\controller\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\new\\C-ums\\unicom tic\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\new\\C-ums\\unicom tic\\controller\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\controller\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\new\\C-ums\\unicom tic\\controller\\attendancecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\controller\\attendancecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\attendancecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\new\\C-ums\\unicom tic\\view\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\view\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\new\\C-ums\\unicom tic\\view\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\view\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|Z:\\new\\C-ums\\unicom tic\\view\\atendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\UT010782\\Desktop\\ums\\unicom tic\\view\\atendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\atendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -94,79 +98,90 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Lecturerfrom.cs",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\view\\Lecturerfrom.cs",
-              "RelativeDocumentMoniker": "Unicom TIC\\view\\Lecturerfrom.cs",
-              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\view\\Lecturerfrom.cs",
-              "RelativeToolTip": "Unicom TIC\\view\\Lecturerfrom.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAgwEAAAAANAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T11:19:08.579Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "LecturerController.cs",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\LecturerController.cs",
-              "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\LecturerController.cs",
-              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\LecturerController.cs",
-              "RelativeToolTip": "Unicom TIC\\CONTROLLER\\LecturerController.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAAIwFAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T11:01:59.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Lecturer.cs",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\MADELS\\Lecturer.cs",
-              "RelativeDocumentMoniker": "Unicom TIC\\MADELS\\Lecturer.cs",
-              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\MADELS\\Lecturer.cs",
-              "RelativeToolTip": "Unicom TIC\\MADELS\\Lecturer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\Program.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\Program.cs",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\Program.cs",
+              "RelativeToolTip": "Unicom TIC\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T11:03:12.253Z",
+              "WhenOpened": "2025-06-24T07:46:01.875Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Lecturerfrom.cs [Design]",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\view\\Lecturerfrom.cs",
+              "Title": "Lecturerfrom.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\view\\Lecturerfrom.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\view\\Lecturerfrom.cs",
-              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\view\\Lecturerfrom.cs [Design]",
-              "RelativeToolTip": "Unicom TIC\\view\\Lecturerfrom.cs [Design]",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\view\\Lecturerfrom.cs",
+              "RelativeToolTip": "Unicom TIC\\view\\Lecturerfrom.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwEAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T11:04:16.603Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-23T11:19:08.579Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "DatabaseManager.cs",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\Repositories\\DatabaseManager.cs",
-              "RelativeDocumentMoniker": "Unicom TIC\\Repositories\\DatabaseManager.cs",
-              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\Repositories\\DatabaseManager.cs",
-              "RelativeToolTip": "Unicom TIC\\Repositories\\DatabaseManager.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCwAAAAmAAAA",
+              "Title": "LecturerController.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\LecturerController.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\LecturerController.cs",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\LecturerController.cs",
+              "RelativeToolTip": "Unicom TIC\\CONTROLLER\\LecturerController.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwFAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T05:06:09.328Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-23T11:01:59.534Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 1,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\MADELS\\Lecturer.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\MADELS\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\MADELS\\Lecturer.cs",
+              "RelativeToolTip": "Unicom TIC\\MADELS\\Lecturer.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:03:12.253Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Lecturerfrom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\view\\Lecturerfrom.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\view\\Lecturerfrom.cs",
+              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\view\\Lecturerfrom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T11:04:16.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\Repositories\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\Repositories\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\Repositories\\DatabaseManager.cs",
+              "RelativeToolTip": "Unicom TIC\\Repositories\\DatabaseManager.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAgwCwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T05:06:09.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "ExamController.cs",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\ExamController.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\ExamController.cs",
-              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\ExamController.cs",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\ExamController.cs",
               "RelativeToolTip": "Unicom TIC\\CONTROLLER\\ExamController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -174,24 +189,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "Exam.cs",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\MADELS\\Exam.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\MADELS\\Exam.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\MADELS\\Exam.cs",
-              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\MADELS\\Exam.cs",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\MADELS\\Exam.cs",
               "RelativeToolTip": "Unicom TIC\\MADELS\\Exam.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-17T09:38:42.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-17T09:38:42.01Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "TimetableController.cs",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\TimetableController.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\TimetableController.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\TimetableController.cs",
-              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\TimetableController.cs",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\TimetableController.cs",
               "RelativeToolTip": "Unicom TIC\\CONTROLLER\\TimetableController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -199,11 +213,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "SubjectController.cs",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\SubjectController.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\SubjectController.cs",
-              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\SubjectController.cs",
               "RelativeToolTip": "Unicom TIC\\CONTROLLER\\SubjectController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -211,11 +225,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CourseController.cs",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\CourseController.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\CourseController.cs",
-              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\CourseController.cs",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\CourseController.cs",
               "RelativeToolTip": "Unicom TIC\\CONTROLLER\\CourseController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -223,23 +237,21 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Login.cs [Design]",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\view\\Login.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\view\\Login.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\view\\Login.cs",
               "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\view\\Login.cs [Design]",
-              "RelativeToolTip": "Unicom TIC\\view\\Login.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-18T10:10:16.044Z",
-              "EditorCaption": " [Design]"
+              "WhenOpened": "2025-06-18T10:10:16.044Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Attendance.cs",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\MADELS\\Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\MADELS\\Attendance.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\MADELS\\Attendance.cs",
-              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\MADELS\\Attendance.cs",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\MADELS\\Attendance.cs",
               "RelativeToolTip": "Unicom TIC\\MADELS\\Attendance.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -247,11 +259,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "AttendanceCon.cs",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\AttendanceCon.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\AttendanceCon.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\AttendanceCon.cs",
-              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\AttendanceCon.cs",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\AttendanceCon.cs",
               "RelativeToolTip": "Unicom TIC\\CONTROLLER\\AttendanceCon.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -259,33 +271,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Mark.cs [Design]",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\view\\Mark.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\view\\Mark.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\view\\Mark.cs",
               "ToolTip": "Z:\\c#\\new project\\Unicom TIC\\Unicom TIC\\view\\Mark.cs [Design]",
-              "RelativeToolTip": "..\\..\\c#\\new project\\Unicom TIC\\Unicom TIC\\view\\Mark.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T10:10:07.181Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "CourseForm.cs [Design]",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\view\\CourseForm.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\view\\CourseForm.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\view\\CourseForm.cs",
               "ToolTip": "Z:\\c#\\new project\\Unicom TIC\\Unicom TIC\\view\\CourseForm.cs [Design]",
-              "RelativeToolTip": "..\\..\\c#\\new project\\Unicom TIC\\Unicom TIC\\view\\CourseForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-17T08:59:26.311Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "MarkController.cs",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\MarkController.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\MarkController.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\MarkController.cs",
-              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\MarkController.cs",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\MarkController.cs",
               "RelativeToolTip": "Unicom TIC\\CONTROLLER\\MarkController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -293,11 +303,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "StudentController.cs",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\StudentController.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\StudentController.cs",
-              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\StudentController.cs",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\StudentController.cs",
               "RelativeToolTip": "Unicom TIC\\CONTROLLER\\StudentController.cs",
               "ViewState": "AQIAABUAAAAAAAAAAAAowAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -305,11 +315,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "LoginController.cs",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\LoginController.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\LoginController.cs",
-              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\CONTROLLER\\LoginController.cs",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\CONTROLLER\\LoginController.cs",
               "RelativeToolTip": "Unicom TIC\\CONTROLLER\\LoginController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -317,33 +327,31 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "atendanceform.cs [Design]",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\view\\atendanceform.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\view\\atendanceform.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\view\\atendanceform.cs",
               "ToolTip": "Z:\\c#\\new project\\Unicom TIC\\Unicom TIC\\view\\atendanceform.cs [Design]",
-              "RelativeToolTip": "..\\..\\c#\\new project\\Unicom TIC\\Unicom TIC\\view\\atendanceform.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T10:11:34.52Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "ExamForm.cs [Design]",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\view\\ExamForm.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\view\\ExamForm.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\view\\ExamForm.cs",
               "ToolTip": "Z:\\New folder (2)\\C-ums\\Unicom TIC\\view\\ExamForm.cs [Design]",
-              "RelativeToolTip": "..\\..\\New folder (2)\\C-ums\\Unicom TIC\\view\\ExamForm.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-18T10:11:30.708Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Course.cs",
-              "DocumentMoniker": "Z:\\new\\C-ums\\Unicom TIC\\MADELS\\Course.cs",
+              "DocumentMoniker": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\MADELS\\Course.cs",
               "RelativeDocumentMoniker": "Unicom TIC\\MADELS\\Course.cs",
-              "ToolTip": "Z:\\new\\C-ums\\Unicom TIC\\MADELS\\Course.cs",
+              "ToolTip": "C:\\Users\\UT010782\\Desktop\\ums\\Unicom TIC\\MADELS\\Course.cs",
               "RelativeToolTip": "Unicom TIC\\MADELS\\Course.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

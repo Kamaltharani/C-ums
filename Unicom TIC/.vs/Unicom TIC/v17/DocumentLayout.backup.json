@@ -1,0 +1,538 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\controller\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\staffcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|c:\\users\\pc\\desktop\\c#\\c-ums\\unicom tic\\madels\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\madels\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\view\\staffform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\staffform2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\controller\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\timetablecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\controller\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\subjectcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\view\\lecturerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\lecturerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\view\\examform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\examform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\view\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\courseform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\view\\atendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\atendanceform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\view\\studentveiw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\studentveiw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\view\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\madels\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\madels\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\controller\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\lecturercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\controller\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\markcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\madels\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\madels\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\repositories\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\repositories\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\view\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\subject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\madels\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\madels\\lecturer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\madels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\madels\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\controller\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\examcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\controller\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\controller\\attendancecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\controller\\attendancecon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\view\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\view\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\timetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\madels\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\madels\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\madels\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\madels\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\view\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\view\\mark.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|C:\\Users\\PC\\Desktop\\c#\\C-ums\\unicom tic\\madels\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA161704-6CBD-4C09-B639-F68F53CE1064}|Unicom TIC\\Unicom TIC.csproj|solutionrelative:unicom tic\\madels\\exam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StaffForm2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\StaffForm2.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\view\\StaffForm2.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\StaffForm2.cs [Design]",
+              "RelativeToolTip": "Unicom TIC\\view\\StaffForm2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:41:22.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\MADELS\\Staff.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\MADELS\\Staff.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\MADELS\\Staff.cs*",
+              "RelativeToolTip": "Unicom TIC\\MADELS\\Staff.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:36:29.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "staffController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\staffController.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\staffController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\staffController.cs*",
+              "RelativeToolTip": "Unicom TIC\\CONTROLLER\\staffController.cs*",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAcwDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T16:32:34.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ExamForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\ExamForm.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\view\\ExamForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\ExamForm.cs [Design]",
+              "RelativeToolTip": "Unicom TIC\\view\\ExamForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:11:30.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LecturerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\LecturerForm.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\view\\LecturerForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\LecturerForm.cs [Design]",
+              "RelativeToolTip": "Unicom TIC\\view\\LecturerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:48:57.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\Login.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\view\\Login.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\Login.cs [Design]",
+              "RelativeToolTip": "Unicom TIC\\view\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:10:16.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CourseForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\CourseForm.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\view\\CourseForm.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\CourseForm.cs [Design]",
+              "RelativeToolTip": "Unicom TIC\\view\\CourseForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:59:26.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubjectController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\SubjectController.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\SubjectController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\SubjectController.cs",
+              "RelativeToolTip": "Unicom TIC\\CONTROLLER\\SubjectController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:40:45.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimetableController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\TimetableController.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\TimetableController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\TimetableController.cs",
+              "RelativeToolTip": "Unicom TIC\\CONTROLLER\\TimetableController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAA9wAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:40:48.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "atendanceform.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\atendanceform.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\view\\atendanceform.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\atendanceform.cs [Design]",
+              "RelativeToolTip": "Unicom TIC\\view\\atendanceform.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:11:34.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Studentveiw.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\Studentveiw.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\view\\Studentveiw.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\Studentveiw.cs [Design]",
+              "RelativeToolTip": "Unicom TIC\\view\\Studentveiw.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:26:16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Student.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\Student.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\view\\Student.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\Student.cs [Design]",
+              "RelativeToolTip": "Unicom TIC\\view\\Student.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:10:38.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Mark.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\MADELS\\Mark.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\MADELS\\Mark.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\MADELS\\Mark.cs",
+              "RelativeToolTip": "Unicom TIC\\MADELS\\Mark.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:51:22.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "lecturerController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\lecturerController.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\lecturerController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\lecturerController.cs",
+              "RelativeToolTip": "Unicom TIC\\CONTROLLER\\lecturerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:47:40.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MarkController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\MarkController.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\MarkController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\MarkController.cs",
+              "RelativeToolTip": "Unicom TIC\\CONTROLLER\\MarkController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:40:39.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Timetable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\MADELS\\Timetable.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\MADELS\\Timetable.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\MADELS\\Timetable.cs",
+              "RelativeToolTip": "Unicom TIC\\MADELS\\Timetable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T10:10:43.992Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\Repositories\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\Repositories\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\Repositories\\DatabaseManager.cs",
+              "RelativeToolTip": "Unicom TIC\\Repositories\\DatabaseManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T05:06:09.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Subject.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\Subject.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\view\\Subject.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\Subject.cs [Design]",
+              "RelativeToolTip": "Unicom TIC\\view\\Subject.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:51:53.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\Program.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\Program.cs",
+              "RelativeToolTip": "Unicom TIC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T15:51:46.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Lecturer.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\MADELS\\Lecturer.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\MADELS\\Lecturer.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\MADELS\\Lecturer.cs",
+              "RelativeToolTip": "Unicom TIC\\MADELS\\Lecturer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T14:48:20.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\StudentController.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\StudentController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\StudentController.cs",
+              "RelativeToolTip": "Unicom TIC\\CONTROLLER\\StudentController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:14:17.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\MADELS\\Course.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\MADELS\\Course.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\MADELS\\Course.cs",
+              "RelativeToolTip": "Unicom TIC\\MADELS\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:58:14.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\LoginController.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\LoginController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\LoginController.cs",
+              "RelativeToolTip": "Unicom TIC\\CONTROLLER\\LoginController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAuwAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:40:37.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExamController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\ExamController.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\ExamController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\ExamController.cs",
+              "RelativeToolTip": "Unicom TIC\\CONTROLLER\\ExamController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:35:57.449Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\CourseController.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\CourseController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\CourseController.cs",
+              "RelativeToolTip": "Unicom TIC\\CONTROLLER\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:39:19.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AttendanceCon.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\AttendanceCon.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\CONTROLLER\\AttendanceCon.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\CONTROLLER\\AttendanceCon.cs",
+              "RelativeToolTip": "Unicom TIC\\CONTROLLER\\AttendanceCon.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T09:39:17.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Timetable.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\Timetable.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\view\\Timetable.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\Timetable.cs [Design]",
+              "RelativeToolTip": "Unicom TIC\\view\\Timetable.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T08:53:06.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Timetable.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\Timetable.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\view\\Timetable.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\Timetable.cs",
+              "RelativeToolTip": "Unicom TIC\\view\\Timetable.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:43:25.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\Login.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\view\\Login.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\Login.cs",
+              "RelativeToolTip": "Unicom TIC\\view\\Login.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAASwB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:40:18.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "login.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\MADELS\\login.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\MADELS\\login.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\MADELS\\login.cs",
+              "RelativeToolTip": "Unicom TIC\\MADELS\\login.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-21T09:09:40.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\MADELS\\Attendance.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\MADELS\\Attendance.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\MADELS\\Attendance.cs",
+              "RelativeToolTip": "Unicom TIC\\MADELS\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T05:11:15.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Mark.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\view\\Mark.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\view\\Mark.cs",
+              "ToolTip": "Z:\\c#\\new project\\Unicom TIC\\Unicom TIC\\view\\Mark.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T10:10:07.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Exam.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\MADELS\\Exam.cs",
+              "RelativeDocumentMoniker": "Unicom TIC\\MADELS\\Exam.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\c#\\C-ums\\Unicom TIC\\MADELS\\Exam.cs",
+              "RelativeToolTip": "Unicom TIC\\MADELS\\Exam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T09:38:42.01Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
